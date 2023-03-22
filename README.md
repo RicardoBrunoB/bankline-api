@@ -1,7 +1,6 @@
 # Documentação e interface disponibilizada no link https://github.com/RicardoBrunoB/bankline-app
 # Este projeto faz o backend da aplicação disponibilizada no link acima
 
-### Getting Started
 
 ### Reference Documentation
 For further reference, please consider the following sections:
